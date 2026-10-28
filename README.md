@@ -82,4 +82,6 @@ examples/          # runnable scripts
 - [ ] Lease-by-lease rent roll for multi-tenant buildings
 - [ ] Equity waterfall (preferred return, promote)
 
+See [LEARNING.md](LEARNING.md) for the study plan this project is part of.
+
 *Example inputs are illustrative, not market data.*
